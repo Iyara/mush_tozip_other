@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Sábado, Agosto 04, 2012, 3:02 a.m. -->
+<!-- MuClient version 4.81 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "meh_prompt". World: "Materia Magica GMCP". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.81"
+   world_file_version="15"
+   date_saved="2012-08-04 03:02:36"
+  >
+</variables>
+</muclient>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Monday, October 10, 2016, 7:58 PM -->
+<!-- MuClient version 5.03 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "IMap_GMCP". World: "Materia Magica GMCP". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="5.03"
+   world_file_version="15"
+   date_saved="2016-10-10 19:58:24"
+  >
+  <variable name="mw_imap_adc3a873d4e47348da7cb426_windowflags">2</variable>
+  <variable name="mw_imap_adc3a873d4e47348da7cb426_windowmode">0</variable>
+  <variable name="mw_imap_adc3a873d4e47348da7cb426_windowx">659</variable>
+  <variable name="mw_imap_adc3a873d4e47348da7cb426_windowy">0</variable>
+</variables>
+</muclient>

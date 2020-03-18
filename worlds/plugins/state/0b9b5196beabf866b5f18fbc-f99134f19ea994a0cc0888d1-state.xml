@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Friday, December 20, 2013, 6:34 PM -->
+<!-- MuClient version 4.91 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "accelerators". World: "Materia Magica GMCP". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.91"
+   world_file_version="15"
+   date_saved="2013-12-20 18:34:28"
+  >
+</variables>
+</muclient>
