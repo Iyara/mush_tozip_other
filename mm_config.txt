@@ -1,3 +1,0 @@
-#COMMIT 55ed5ff
-#DATE 2020-03-17 
-#PACKAGE MM_MUSHclient_bundle_other
